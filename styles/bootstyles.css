@@ -1,0 +1,44 @@
+.header{
+    height: 125px;
+    background-color: #97c1a9;
+    resize: horizontal; overflow:auto;
+}
+
+.mainbody{background-color: #B6CFB6;
+    height: 1000px;
+    resize: both; overflow:auto;
+}
+
+.footer{
+    height: 100px;
+    background-color: #CCE2CB;
+    resize: horizontal; overflow:auto;
+}
+
+.common{
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+
+.links{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color:black;
+}
+
+h1{font-weight:bolder;
+    font-size:250%;
+}
+
+.graphs{display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
